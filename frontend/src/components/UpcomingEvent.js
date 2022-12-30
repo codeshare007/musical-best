@@ -28,7 +28,7 @@ const UpcomingEvent = props => {
                 <img src={SheetMusicImage} alt="upcoming events"/>
                 <img src={StageImage} alt="upcoming events"/>
                 <img src={SingingImage} alt="upcoming events"/>
-                <img src={LearningImage} alt="upcoming events"/>
+                {/* <img src={LearningImage} alt="upcoming events"/> */}
             </div>
         </div>
     );
