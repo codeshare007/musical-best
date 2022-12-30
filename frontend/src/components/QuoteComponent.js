@@ -15,12 +15,12 @@ const Quote = props => {
                         {props.quote}
                     </span>
                 </div>
-                <div className="end-quote">
+                {/* <div className="end-quote">
                     <div className="speaker-name">
                         <span>- {props.writer}</span>
                     </div>
                     <img src={EndDoubleQuote} alt="double quote" />
-                </div>
+                </div> */}
             </div>
         </div>
     )
